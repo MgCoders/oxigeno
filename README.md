@@ -26,6 +26,7 @@ Dashbord > Plugins
 
 * Ninja Forms
 * The Events Calendar
+* AnsPress
 * Wordpress Importer
 
 Si los mismos no aparecen instarlos 

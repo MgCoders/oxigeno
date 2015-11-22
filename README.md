@@ -32,6 +32,8 @@ Dashbord > Plugins > Add New
 
 ## Importar datos de prueba
 
+Se debe importar el archivo extra/export.wordpress.xml
+
 Dashboard > Tools > Import > WordPress
 
 

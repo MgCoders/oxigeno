@@ -1,13 +1,40 @@
-
+# Oxígeno
 =======
-# oxygen
 
-Instalar docker, docker-compose
+## Ambiente
 
-desde dentro del directorio del repo hacer:
+Instalar docker
+Instalar docker-compose
+Clonar este repositorio
+
+Desde dentro del directorio del repositorio ejecutar el siguient comando:
 
 ```docker-compose up```
 
-## Notas
+## Tema
 
-* https://docs.docker.com/compose/wordpress/
+Activar el tema elegido en wordpress
+
+Dashbord > Appearance > Themes
+
+## Plugins
+
+Activar los plugins
+
+Dashbord > Plugins
+
+* Ninja Forms
+* The Events Calendar
+* Wordpress Importer
+
+Si los mismos no aparecen instarlos 
+
+Dashbord > Plugins > Add New
+
+## Importar datos de prueba
+
+Dashboard > Tools > Import > WordPress
+
+
+
+

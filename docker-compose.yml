@@ -8,6 +8,6 @@ web:
   volumes:
     - .:/code
 db:
-  image: orchardup/mysql
+  image: goja288/oxigeno-web
   environment:
     MYSQL_DATABASE: wordpress

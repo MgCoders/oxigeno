@@ -3,7 +3,9 @@
 ## Ambiente
 
 Instalar docker
+
 Instalar docker-compose
+
 Clonar este repositorio
 
 Desde dentro del directorio del repositorio ejecutar el siguient comando:

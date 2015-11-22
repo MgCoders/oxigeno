@@ -1,5 +1,4 @@
 # Oxígeno
-=======
 
 ## Ambiente
 

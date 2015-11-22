@@ -38,6 +38,18 @@ Se debe importar el archivo extra/export.wordpress.xml
 
 Dashboard > Tools > Import > WordPress
 
+## Otros
+
+Dashbord > Events > Settings 
+
+En la pestaña Display campo Events Template seleccionar Defaults Events Template
+
+Dashbord > Settings 
+
+En la sección Front Page Template elegir A static page, Front Page: Homepage, Post Page: Blog
+
+
+
 
 
 
